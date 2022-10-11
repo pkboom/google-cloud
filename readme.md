@@ -4,13 +4,13 @@
 
 ---
 
-## Enable Drive api
+## _Enable Drive api_
 
 <img src="google-drive-api.png" />
 
 ---
 
-## OAuth consent screen
+## _OAuth consent screen_
 
 <img src="oauth-consent-screen.png" />
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Credentials
+## _Credentials_
 
 <img src="credentials.png" />
 
