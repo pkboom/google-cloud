@@ -1,16 +1,16 @@
-## _Create a project_
+## Create a project
 
 <img src="new-project.png" />
 
 ---
 
-## _Enable Drive api_
+## Enable Drive api
 
 <img src="google-drive-api.png" />
 
 ---
 
-## _OAuth consent screen_
+## OAuth consent screen
 
 <img src="oauth-consent-screen.png" />
 
@@ -22,7 +22,7 @@
 
 <img src="oauth-consent-screen3.png" />
 
-## _Credentials_
+## Credentials
 
 <img src="credentials.png" />
 
