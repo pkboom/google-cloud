@@ -1,33 +1,33 @@
-> ## _User your own credentials_
+> ## User your own credentials
 
 <img src="use-your-own-credentials.png" />
 
 ---
 
-> ## _Select & authorize APIs_
+> ## Select & authorize APIs
 
 <img src="authorize-api.png" />
 
 ---
 
-> ## _Sign in with Google_
+> ## Sign in with Google
 
 <img src="sign-in-with-google.png" />
 
 ---
 
-> ## _Get token_
+> ## Get token
 
 <img src="get-token.png" />
 
 ---
 
-> ## _Pick an operation_
+> ## Pick an operation
 
 <img src="pick-operation.png" />
 
 ---
 
-> ## _Send a request_
+> ## Send a request
 
 <img src="send-request.png" />
