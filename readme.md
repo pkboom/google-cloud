@@ -1,4 +1,4 @@
-## Create a project
+## _Create a project_
 
 <img src="new-project.png" />
 
