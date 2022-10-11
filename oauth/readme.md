@@ -22,8 +22,6 @@
 
 <img src="oauth-consent-screen3.png" />
 
----
-
 ## _Credentials_
 
 <img src="credentials.png" />
