@@ -31,5 +31,3 @@
 ---
 
 <img src="credentials2.png" />
-
----
