@@ -24,4 +24,8 @@
 
 ---
 
-<img src="credentials2.png" />
+<img src="credentials3.png" />
+
+---
+
+<img src="credentials4.png" />
